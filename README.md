@@ -1,4 +1,4 @@
-# Sistema de Livraria em Python
+# Sistema de Livraria em Python - CRUD com SQLite
 
 Este é um sistema de livraria desenvolvido em Python, utilizando conceitos de Programação Orientada a Objetos (POO) como Abstração, Encapsulamento, Herança e Polimorfismo. O sistema permite realizar operações CRUD (Create, Read, Update, Delete) para livros e usuários, utilizando um banco de dados SQLite.
 

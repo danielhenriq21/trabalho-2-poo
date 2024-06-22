@@ -1,5 +1,8 @@
 # Sistema de Livraria em Python - CRUD com SQLite
 
+- Aluno
+  - Daniel Henrique Rodrigues da Silva - UC20104282
+
 Este é um sistema de livraria desenvolvido em Python, utilizando conceitos de Programação Orientada a Objetos (POO) como Abstração, Encapsulamento, Herança e Polimorfismo. O sistema permite realizar operações CRUD (Create, Read, Update, Delete) para livros e usuários, utilizando um banco de dados SQLite.
 
 ## Requisitos
